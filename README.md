@@ -1,4 +1,6 @@
-# Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples In Model-Parameter Space (MFUE)
+# MFUE-KDD'2026
+
+Official code for the ACM KDD 2026 paper "Breaking the Boundary Barrier: Robust Model Fingerprinting via Unlearnable Examples In Model-Parameter Space"
 
 
 ## About the Project
